@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.0.8",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
@@ -26,6 +26,6 @@
     "eslint": "^4.9.0",
     "eslint-plugin-react": "^7.4.0",
     "nodemon": "^1.12.1",
-    "webpack": "^3.7.1"
+    "webpack": "^4.8.3"
   }
 }
